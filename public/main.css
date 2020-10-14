@@ -9,9 +9,12 @@ p{
     font-weight: 300;
 }
 
-.navbar-custom{
+.navbar-custom, #foot{
     background-color: #6b63ff0e;
     color: #444;
+}
+#foot{
+    text-align: center !important;
 }
 .navbar-custom a{
     color: #444;
