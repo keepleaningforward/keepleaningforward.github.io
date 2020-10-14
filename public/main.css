@@ -8,3 +8,14 @@ html, body{
 p{
     font-weight: 300;
 }
+
+.navbar-custom{
+    background-color: #6b63ff0e;
+    color: #444;
+}
+.navbar-custom a{
+    color: #444;
+}
+.navbar-custom a:hover{
+    color: #222;
+}
