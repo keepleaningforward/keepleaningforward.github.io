@@ -1,3 +1,10 @@
 .jumbotron{
-    background-color: #d1ecf1;
+    background-color: rgba(0, 0, 0, 0);
+}
+html, body{
+    font-family: 'Poppins', sans-serif;
+    color: #444;
+}
+p{
+    font-weight: 300;
 }
