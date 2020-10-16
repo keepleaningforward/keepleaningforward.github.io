@@ -22,3 +22,14 @@ p{
 .navbar-custom a:hover{
     color: #222;
 }
+
+.zoom{
+    background-color: #6b63ff;
+    border: #6b63ff;
+}
+
+.zoom:hover{
+    background:#6b63ff0e;
+    border:  #6b63ff0e;
+    color: #444;
+}
